@@ -1,0 +1,3 @@
+package: github.com/verticallabs/canary
+import:
+- package: github.com/fatih/color
